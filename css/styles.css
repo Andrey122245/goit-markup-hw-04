@@ -408,6 +408,7 @@ body {
     height: 40px;
   }
   .footer-social-icon-link {
+    position: relative;
     width: 100%;
     height: 100%;
     background-color: #4d5ae5;
